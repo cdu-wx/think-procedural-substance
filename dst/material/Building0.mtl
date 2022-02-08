@@ -37,15 +37,15 @@
       "roughness": 1,
       "metallic": 1,
       "mainTexture": {
-        "__uuid__": "95ee63d4-ac94-42d2-908c-e2247c518fee@6c48a",
+        "__uuid__": "27ac9bcd-140c-4981-83a5-18c92bf94a37@6c48a",
         "__expectedType__": "cc.Texture2D"
       },
       "normalMap": {
-        "__uuid__": "112f48f4-5882-4b2b-8232-239054adb9e4@6c48a",
+        "__uuid__": "6b36c470-b71f-442f-acef-f9fbfef57e2e@6c48a",
         "__expectedType__": "cc.Texture2D"
       },
       "pbrMap": {
-        "__uuid__": "aa6cad68-8edb-4a98-8509-5269a372b914@6c48a",
+        "__uuid__": "79eef920-65a0-49f0-b05c-2af3964a0b49@6c48a",
         "__expectedType__": "cc.Texture2D"
       }
     },
